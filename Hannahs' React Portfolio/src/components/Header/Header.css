@@ -1,0 +1,38 @@
+header {
+    min-height: 60px;
+  }
+  
+  .navbar {
+    background-color: #333; 
+    color: #fff; 
+    padding: 10px 0; 
+    text-align: center;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px; /* Adjust the font size as needed */
+  }
+  
+  .footer {
+    background-color: #333; 
+    color: #fff;
+    padding: 10px 0; 
+    text-align: center; 
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 26px; 
+  }
+    
